@@ -33,5 +33,9 @@ print(person)
 ```
 
 ```{python}
+print("this is the day that the lord has made")
+```
+
+```{python}
 
 ```
