@@ -34,6 +34,7 @@ print(person)
 
 ```{python}
 print("this is the day that the lord has made")
+what did i tell you
 ```
 
 ```{python}
